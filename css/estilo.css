@@ -20,8 +20,19 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    background-color: burlywood;
 
 }
 .transformaciones-animaciones img{
-    padding: 10px;
+    padding: 140px;
+    transform: translateY(150px);
+    transform: rotate(45deg);
+    transition: 1s;
+}
+.transformaciones-animaciones:hover{
+    background-color: aqua;
+
+}
+.transformaciones-animaciones img:hover{
+    transform: translateX(100px) rotate(360deg) skew(35deg);
 }
