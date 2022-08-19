@@ -16,3 +16,12 @@
     width: 500px;
 
 }
+.transformaciones-animaciones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.transformaciones-animaciones img{
+    padding: 10px;
+}
