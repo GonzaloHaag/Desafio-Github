@@ -10,7 +10,7 @@
     
 }
 .div-container{
-    background-color: aqua;
+    background-image: linear-gradient(to left,#ff0000,#00d9ff 75%);
     text-align: center;
     margin: 15px auto;
     width: 500px;
