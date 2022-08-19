@@ -3,9 +3,9 @@
     margin:0;
     box-sizing: border-box;
 }
-.h1{
+.div-container h1{
     font-family: sans-serif;
-    color:red;
+    background-color: chocolate;
     
     
 }
@@ -13,5 +13,6 @@
     background-color: aqua;
     text-align: center;
     margin: 15px auto;
+    width: 500px;
 
 }
